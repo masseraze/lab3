@@ -14,7 +14,7 @@ sort 40907ms
 insertion_sort 107533000ms
 size 1000000
 sort 374874ms
-insertion_sort 
+insertion_sort over 3 hours
 the sort and bubble sort time complex is nlogn n^2 respectively
 as the size scale rising,the time the compiler needs will make a large diffference
 the results are above
